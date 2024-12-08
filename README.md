@@ -1,9 +1,10 @@
-# Course Application for the course: "Serverless en Español con AWS y Serverless Framework"
+# Course: Serverless en Español con AWS y Serverless Framework
 
 _Infrastructure as code framework used_:  Serverless Framework
+
 _AWS Services used_: AWS Lambda, API Gateway, SQS, DynamoDB
 
-## Summary of the demo
+## Summary
 
 I have learned in this course:
 

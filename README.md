@@ -5,7 +5,7 @@ _AWS Services used_: AWS Lambda, API Gateway, SQS, DynamoDB
 
 ## Summary of the demo
 
-In this curse I lerned:
+I have learned in this course:
 
 - How to build a simple serverless application with AWS components and Serverless Framework
 
@@ -34,3 +34,12 @@ serverless remove
 ```
 
 ## Images
+
+### Structure
+![](https://github.com/kekosoftware/curso_serverless/blob/main/images/estructura_app.png)
+
+### Create an order
+![](https://github.com/kekosoftware/curso_serverless/blob/main/images/post_create_order.png)
+
+### Get the order information
+![](https://github.com/kekosoftware/curso_serverless/blob/main/images/get_order.png)
